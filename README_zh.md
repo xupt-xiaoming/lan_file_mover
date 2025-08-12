@@ -10,10 +10,15 @@
 
 ### 截图
 
-*在这里放入您的应用截图，可以极大地吸引用户。*
+*以下是发送方和接收方界面的截图。*
 
-![App Screenshot](./screenshot.png) 
-*(请将此处的 `screenshot.png` 替换为您自己的截图文件名)*
+#### 发送方界面
+
+![发送方界面](./sender_screenshot.png)
+
+#### 接收方界面
+
+![接收方界面](./receiver_screenshot.png)
 
 ---
 

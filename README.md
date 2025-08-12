@@ -12,10 +12,15 @@ A simple, fast, and reliable local area network file transfer tool with a graphi
 
 ### Screenshot
 
-*Your application's screenshot goes here. It can greatly attract users.*
+*Below are screenshots of the sender and receiver interfaces.*
 
-![App Screenshot](./screenshot.png) 
-*(Please replace `screenshot.png` with your own screenshot file name)*
+#### Sender Interface
+
+![Sender Interface](./sender_screenshot.png)
+
+#### Receiver Interface
+
+![Receiver Interface](./receiver_screenshot.png)
 
 ---
 
